@@ -12,14 +12,14 @@
   <img src="https://img.shields.io/badge/catal%C3%A0%E2%86%92espa%C3%B1ol-54.578_lemas-green">
 </p>
 
-**Diccionario bilingüe catalán → español nativo para Amazon Kindle.** Más de 54.000 lemas y un millón de formas reconocibles: conjugaciones verbales completas, plurales, femeninos y apóstrofes (`l'amic`, `s'ha`, `d'ull`) resueltos automáticamente hacia su lema. Gratuito, sin DRM y sin registro.
+Diccionario bilingüe catalán → español nativo para Amazon Kindle. Más de 54.000 lemas y un millón de formas reconocibles: conjugaciones verbales completas, plurales, femeninos y apóstrofes (`l'amic`, `s'ha`, `d'ull`) resueltos automáticamente hacia su lema. Gratuito, sin DRM y sin registro.
 
-## 📥 Descarga e instalación en 4 pasos
+## Descarga e instalación en 4 pasos
 
-1. **Descarga** el archivo: **[catalan-spanish-dictionary-v1.0.0.mobi](../../releases/latest/download/catalan-spanish-dictionary-v1.0.0.mobi)** (6,3 MB)
-2. **Conecta el Kindle** al ordenador con el cable USB.
-3. **Copia** el `.mobi` dentro de la carpeta `documents\dictionaries\` del Kindle (si no existe, créala).
-4. **Expulsa** con seguridad y actívalo en el Kindle: *Configuración → Opciones de dispositivo → Idioma y diccionarios → Diccionarios → Catalán*.
+1. Descarga el archivo: [catalan-spanish-dictionary-v1.0.0.mobi](../../releases/latest/download/catalan-spanish-dictionary-v1.0.0.mobi) (6,3 MB)
+2. Conecta el Kindle al ordenador con el cable USB.
+3. Copia el `.mobi` dentro de la carpeta `documents\dictionaries\` del Kindle (si no existe, créala).
+4. Expulsa con seguridad y actívalo en el Kindle: *Configuración → Opciones de dispositivo → Idioma y diccionarios → Diccionarios → Catalán*.
 
 Compatible con todos los Kindle (Paperwhite, Oasis, Scribe, Basic…) y con KOReader.
 
@@ -39,15 +39,15 @@ Abre un libro en catalán, mantén pulsada una palabra:
 
 ## Qué incluye
 
-- **Conjugaciones completas**: cualquier forma verbal (`tindria`, `havent`, `parlessin`) salta al infinitivo traducido.
-- **Plurales y femeninos**: `nen → nens/nena`, `casa → cases`.
-- **Apóstrofes inteligentes** por categoría gramatical: los nombres reciben el artículo (`l'amic`), los verbos todos los clíticos (`s'ha`, `m'anava`).
-- **Acentos en ambas direcciones**: da igual pulsar `bestia` que `bèstia`.
-- **Contracciones y pronombres débiles**: `del`, `pels`, `hi`, `ho`, `en`, `ne`, `cal`.
+- Conjugaciones completas: cualquier forma verbal (`tindria`, `havent`, `parlessin`) salta al infinitivo traducido.
+- Plurales y femeninos: `nen → nens/nena`, `casa → cases`.
+- Apóstrofes por categoría gramatical: los nombres reciben el artículo (`l'amic`), los verbos todos los clíticos (`s'ha`, `m'anava`).
+- Acentos en ambas direcciones: da igual pulsar `bestia` que `bèstia`.
+- Contracciones y pronombres débiles: `del`, `pels`, `hi`, `ho`, `en`, `ne`, `cal`.
 
 ## Fuentes de datos
 
-El diccionario combina tres proyectos libres, cada uno aportando lo que el otro no tiene:
+El diccionario combina tres proyectos libres; cada uno aporta lo que el otro no tiene:
 
 | Fuente | Aporta | Licencia |
 |---|---|---|
@@ -80,9 +80,9 @@ Requisitos: Python 3.10+, pyglossary, y el binario [KindleGen v2.9](https://www.
 
 ## Contribuir
 
-- **¿Una palabra no resuelve?** Abre una issue con la palabra y la frase; los huecos reales entran en el suplemento.
-- **Correcciones** de traducciones (provienen de Wiktionary/Apertium) o nuevas fuentes bilingües libres.
-- **Otros idiomas**: si haces fork para otro par, compártelo.
+- ¿Una palabra no resuelve? Abre una issue con la palabra y la frase; los huecos reales entran en el suplemento.
+- Correcciones de traducciones (provienen de Wiktionary/Apertium) o nuevas fuentes bilingües libres.
+- Otros idiomas: si haces fork para otro par, compártelo.
 
 ## Licencia
 
