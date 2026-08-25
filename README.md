@@ -1,25 +1,31 @@
-# Diccionario catalán–español para Kindle — gratis y sin registro
+<p align="center">
+  <img src="docs/img/banner.svg" alt="Diccionari català → español per a Kindle" width="100%">
+</p>
 
-[![Descargar](https://img.shields.io/github/v/release/iggykimi/catalan-spanish-kindle-dictionary?label=descargar&sort=semver)](../../releases/latest)
-[![Licencia](https://img.shields.io/badge/licencia-GPL--3.0-blue.svg)](LICENSE)
-[![Formato](https://img.shields.io/badge/formato-dicci%C3%B3nario%20Kindle%20(.mobi)-orange)](#instalaci%C3%B3n-en-4-pasos)
+<p align="center">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/iggykimi/catalan-spanish-kindle-dictionary?label=descargar&sort=semver"></a>
+  &nbsp;
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licencia-GPL--3.0-blue.svg"></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/formato-dicci%C3%B3nario%20Kindle%20(.mobi)-orange">
+  &nbsp;
+  <img src="https://img.shields.io/badge/catal%C3%A0%E2%86%92espa%C3%B1ol-54.578_lemas-green">
+</p>
 
-**Diccionario bilingüe catalán → español nativo para Amazon Kindle.** 54.578 palabras y más de un millón de formas reconocibles: conjugaciones verbales completas, plurales, apóstrofes (`l'amic`, `s'ha`) y acentos (`bèsties`). Gratuito, sin DRM y sin registro.
+**Diccionario bilingüe catalán → español nativo para Amazon Kindle.** Más de 54.000 lemas y un millón de formas reconocibles: conjugaciones verbales completas, plurales, femeninos y apóstrofes (`l'amic`, `s'ha`, `d'ull`) resueltos automáticamente hacia su lema. Gratuito, sin DRM y sin registro.
 
-## 📥 Descarga
+## 📥 Descarga e instalación en 4 pasos
 
-**→ [DESCARGAR EL DICCIONARIO (v1.0.0)](../../releases/latest/download/catalan-spanish-dictionary-v1.0.0.mobi) ←**
-
-Archivo `.mobi` de 6,3 MB. Compatible con todos los Kindle (Paperwhite, Oasis, Scribe, Basic…) y con KOReader.
-
-## Instalación en 4 pasos
-
-1. **Descarga** el archivo del enlace de arriba.
+1. **Descarga** el archivo: **[catalan-spanish-dictionary-v1.0.0.mobi](../../releases/latest/download/catalan-spanish-dictionary-v1.0.0.mobi)** (6,3 MB)
 2. **Conecta el Kindle** al ordenador con el cable USB.
-3. **Copia** el archivo `.mobi` dentro de la carpeta `documents\dictionaries\` del Kindle (si no existe, créala).
-4. **Expulsa** el Kindle con seguridad y, en el dispositivo, ve a *Configuración → Opciones de dispositivo → Idioma y diccionarios → Diccionarios → Catalán* y selecciónalo.
+3. **Copia** el `.mobi` dentro de la carpeta `documents\dictionaries\` del Kindle (si no existe, créala).
+4. **Expulsa** con seguridad y actívalo en el Kindle: *Configuración → Opciones de dispositivo → Idioma y diccionarios → Diccionarios → Catalán*.
 
-Ya está. Abre un libro en catalán, mantén pulsada una palabra y verás la traducción al español:
+Compatible con todos los Kindle (Paperwhite, Oasis, Scribe, Basic…) y con KOReader.
+
+### Comprobación rápida
+
+Abre un libro en catalán, mantén pulsada una palabra:
 
 | Si pulsas... | Verás... |
 |---|---|
@@ -33,10 +39,10 @@ Ya está. Abre un libro en catalán, mantén pulsada una palabra y verás la tra
 
 ## Qué incluye
 
-- **Conjugaciones completas**: pulsa cualquier forma verbal (`tindria`, `havent`, `parlessin`) y salta al infinitivo traducido.
+- **Conjugaciones completas**: cualquier forma verbal (`tindria`, `havent`, `parlessin`) salta al infinitivo traducido.
 - **Plurales y femeninos**: `nen → nens/nena`, `casa → cases`.
-- **Apóstrofes inteligentes**: `l'amic`, `d'ull`, `m'anava`, `t'estimo` resuelven a su lema.
-- **Acentos**: da igual pulsar `bestia` que `bèstia`.
+- **Apóstrofes inteligentes** por categoría gramatical: los nombres reciben el artículo (`l'amic`), los verbos todos los clíticos (`s'ha`, `m'anava`).
+- **Acentos en ambas direcciones**: da igual pulsar `bestia` que `bèstia`.
 - **Contracciones y pronombres débiles**: `del`, `pels`, `hi`, `ho`, `en`, `ne`, `cal`.
 
 ## Fuentes de datos
@@ -53,15 +59,11 @@ Detalles completos en [NOTICE.md](NOTICE.md).
 
 ## Validación
 
-Cobertura medida sobre libros reales, token a token ([metodología](docs/validacion.md)):
+Cobertura medida sobre libros reales, token a token, simulando la búsqueda del Kindle ([metodología](docs/validacion.md)):
 
-| Obra | Época | Cobertura |
-|---|---|---|
-| *Et vaig donar ulls i vas mirar les tenebres* (Irene Solà) | 2023 | **92,5 %** |
-| *L'auca del senyor Esteve* (Rusiñol) | 1907 | 89,3 % |
-| *Arrels mortes* | 1909 | 76,8 % |
+![Cobertura sobre obras reales](docs/img/cobertura.svg)
 
-Los fallos en clásicos son ortografía anterior a Fabra (`ab`, `y`, `vehina`); en prosa moderna, casi todo lo restante son nombres propios.
+Los fallos en clásicos corresponden a ortografía anterior a Fabra (`ab`, `y`, `vehina`); en prosa moderna casi todo lo restante son nombres propios.
 
 ## Para desarrolladores
 

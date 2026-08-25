@@ -1,0 +1,28 @@
+<svg width="760" height="240" viewBox="0 0 760 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cobertura del diccionario sobre obras reales">
+  <style>
+    .lbl { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; fill: #d8dce0; }
+    .pct { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; fill: #e8b64c; }
+    .sub { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; fill: #8b9197; }
+    .track { fill: #26292d; }
+  </style>
+
+  <rect width="760" height="240" rx="14" fill="#14161a"/>
+
+  <text x="30" y="52" class="lbl">Et vaig donar ulls… — Irene Solà</text>
+  <text x="30" y="70" class="sub">prosa contemporánea · 2023</text>
+  <rect x="330" y="40" width="360" height="18" rx="9" class="track"/>
+  <rect x="330" y="40" width="333" height="18" rx="9" fill="#e8b64c"/>
+  <text x="700" y="54" class="pct">92,5 %</text>
+
+  <text x="30" y="122" class="lbl">L'auca del senyor Esteve — Rusiñol</text>
+  <text x="30" y="140" class="sub">clásico · 1907</text>
+  <rect x="330" y="110" width="360" height="18" rx="9" class="track"/>
+  <rect x="330" y="110" width="321" height="18" rx="9" fill="#cfa53f"/>
+  <text x="700" y="124" class="pct">89,3 %</text>
+
+  <text x="30" y="192" class="lbl">Arrels mortes</text>
+  <text x="30" y="210" class="sub">pre-normativo · 1909</text>
+  <rect x="330" y="180" width="360" height="18" rx="9" class="track"/>
+  <rect x="330" y="180" width="276" height="18" rx="9" fill="#a8862f"/>
+  <text x="700" y="194" class="pct">76,8 %</text>
+</svg>
