@@ -1,0 +1,1 @@
+pyglossary>=5.0

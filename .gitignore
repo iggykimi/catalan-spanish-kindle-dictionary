@@ -1,0 +1,14 @@
+# build artifacts
+pipeline/release/
+*.log
+
+# working data (large, re-downloadable - see NOTICE.md)
+diccionari.txt
+apertium-spa-cat.metadix
+cat-spa.tar.xz
+kindlegen/
+
+# python
+__pycache__/
+*.pyc
+.venv/
