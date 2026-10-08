@@ -78,6 +78,13 @@ python build.py --stage mobi   # solo recompilar
 
 Requisitos: Python 3.10+, pyglossary, y el binario [KindleGen v2.9](https://www.amazon.com/gp/feature.html?docId=1000765211) colocado en la ruta indicada al inicio del script (no se redistribuye por su licencia). El método es agnóstico al contenido: sirve para construir diccionarios para otros pares de idiomas combinando un StarDict bilingüe libre + un diccionario morfológico del idioma origen.
 
+## Preguntas frecuentes
+
+- **¿Funciona en la app de Kindle para móvil u ordenador?** No: las apps de Kindle no permiten diccionarios propios. Solo en lectores Kindle físicos (y KOReader).
+- **¿Existe la dirección inversa (español → catalán)?** De momento no. El pipeline es agnóstico al par de idiomas: si alguien aporta la base morfológica inversa, se puede construir.
+- **¿Por qué hay palabras que no se resuelven?** En clásicos, ortografía anterior a Fabra (`ab`, `y`, `vehina`); en prosa moderna, casi todo lo restante son nombres propios. Detalle y cifras en [validación](docs/validacion.md).
+- **¿Consume batería o espacio?** 6,3 MB, archivo estático: el Kindle solo lo consulta al mantener pulsada una palabra.
+
 ## Contribuir
 
 - ¿Una palabra no resuelve? Abre una issue con la palabra y la frase; los huecos reales entran en el suplemento.
