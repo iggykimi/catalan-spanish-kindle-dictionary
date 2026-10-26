@@ -7,7 +7,7 @@
   &nbsp;
   <a href="LICENSE"><img src="https://img.shields.io/badge/licencia-GPL--3.0-blue.svg"></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/formato-dicci%C3%B3nario%20Kindle%20(.mobi)-orange">
+  <img src="https://img.shields.io/badge/formato-diccionario%20Kindle%20(.mobi)-orange">
   &nbsp;
   <img src="https://img.shields.io/badge/catal%C3%A0%E2%86%92espa%C3%B1ol-54.578_lemas-green">
 </p>
