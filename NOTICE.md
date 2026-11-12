@@ -25,6 +25,11 @@ Este proyecto combina datos de terceros. Cada fuente conserva su licencia origin
 - **pyglossary** — https://github.com/ilius/pyglossary — GPL-3.0. Se instala por pip; no se incluye en este repo.
 - **Amazon KindleGen v2.9** — herramienta propietaria de Amazon usada solo localmente para compilar el `.mobi`. **No se redistribuye** con este proyecto: cada usuario debe descargarla por su cuenta. Este proyecto no está afiliado a Amazon.
 
+## 5. Imágenes
+
+- `docs/img/kindle-paperwhite.jpg`: recorte de «Amazon Kindle Paperwhite 5 Eleventh Generation (C2V2L3) 6-inch e-reader», de WrS.tm.pl, publicada en dominio público en Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Amazon_Kindle_Paperwhite_5_Eleventh_Generation_(C2V2L3)_6-inch_e-reader.jpg
+- `docs/img/banner.svg` y `docs/img/cobertura.svg`: obra propia, GPL-3.0 como el resto del proyecto.
+
 ## Suplemento manual
 
 Las entradas de contracciones (`del`, `pels`…), pronombres débiles (`hi`, `ho`, `en`, `ne`) y lemas puntuales añadidos como parche se publican aquí bajo la misma GPL-3.0 del proyecto.

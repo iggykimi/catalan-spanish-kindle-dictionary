@@ -14,6 +14,8 @@
 
 Diccionario bilingüe catalán → español nativo para Amazon Kindle. Más de 54.000 lemas y un millón de formas reconocibles: conjugaciones verbales completas, plurales, femeninos y apóstrofes (`l'amic`, `s'ha`, `d'ull`) resueltos automáticamente hacia su lema. Gratuito, sin DRM y sin registro.
 
+> **In English.** A free Catalan → Spanish dictionary for Kindle e-readers: 54,578 headwords and about 1.1 million inflected forms, so a long-press on any conjugated verb, plural or apostrophe contraction (`l'amic`, `s'ha`) lands on the right entry. A Python pipeline merges three open sources (FreeDict, Softcatalà, Apertium), generates the inflections and checks the Kindle dictionary format after every build. Coverage is measured token by token on real books ([method](docs/validacion.md)).
+
 ## Descarga e instalación en 4 pasos
 
 1. Descarga el archivo: [catalan-spanish-dictionary-v1.0.0.mobi](../../releases/latest/download/catalan-spanish-dictionary-v1.0.0.mobi) (6,3 MB)
@@ -22,6 +24,11 @@ Diccionario bilingüe catalán → español nativo para Amazon Kindle. Más de 5
 4. Expulsa con seguridad y actívalo en el Kindle: *Configuración → Opciones de dispositivo → Idioma y diccionarios → Diccionarios → Catalán*.
 
 Compatible con todos los Kindle (Paperwhite, Oasis, Scribe, Basic…) y con KOReader.
+
+<p align="center">
+  <img src="docs/img/kindle-paperwhite.jpg" alt="Kindle Paperwhite de 11.ª generación" width="420"><br>
+  <sub>Kindle Paperwhite 5. Foto: WrS.tm.pl, <a href="https://commons.wikimedia.org/wiki/File:Amazon_Kindle_Paperwhite_5_Eleventh_Generation_(C2V2L3)_6-inch_e-reader.jpg">Wikimedia Commons</a>, dominio público.</sub>
+</p>
 
 ### Comprobación rápida
 
