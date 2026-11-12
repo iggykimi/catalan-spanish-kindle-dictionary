@@ -28,7 +28,7 @@ Este proyecto combina datos de terceros. Cada fuente conserva su licencia origin
 ## 5. Imágenes
 
 - `docs/img/kindle-paperwhite.jpg`: recorte de «Amazon Kindle Paperwhite 5 Eleventh Generation (C2V2L3) 6-inch e-reader», de WrS.tm.pl, publicada en dominio público en Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Amazon_Kindle_Paperwhite_5_Eleventh_Generation_(C2V2L3)_6-inch_e-reader.jpg
-- `docs/img/banner.svg` y `docs/img/cobertura.svg`: obra propia, GPL-3.0 como el resto del proyecto.
+- `docs/img/lookup-light.svg`, `docs/img/lookup-dark.svg`, `docs/img/cobertura-light.svg` y `docs/img/cobertura-dark.svg`: obra propia, GPL-3.0 como el resto del proyecto. Se generan con `docs/img/make_figures.py`. El texto catalán de la pantalla de ejemplo es original, escrito para la figura.
 
 ## Suplemento manual
 

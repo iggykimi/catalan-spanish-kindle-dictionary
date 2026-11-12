@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" role="img" aria-label="Cobertura del diccionario sobre tres obras reales: 92,5 %, 89,3 % y 76,8 %" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+  <text x="8" y="24" font-size="16" fill="#e6edf3" font-weight="600">Cobertura sobre obras reales</text>
+  <text x="8" y="44" font-size="12" fill="#9198a1">Tokens que el diccionario resuelve, simulando la búsqueda del Kindle</text>
+  <line x1="340.0" y1="62" x2="340.0" y2="208" stroke="#3d444d" stroke-width="1"/>
+  <text x="340.0" y="226" font-size="12" fill="#9198a1" text-anchor="middle">0 %</text>
+  <line x1="427.5" y1="62" x2="427.5" y2="208" stroke="#3d444d" stroke-width="1"/>
+  <text x="427.5" y="226" font-size="12" fill="#9198a1" text-anchor="middle">25 %</text>
+  <line x1="515.0" y1="62" x2="515.0" y2="208" stroke="#3d444d" stroke-width="1"/>
+  <text x="515.0" y="226" font-size="12" fill="#9198a1" text-anchor="middle">50 %</text>
+  <line x1="602.5" y1="62" x2="602.5" y2="208" stroke="#3d444d" stroke-width="1"/>
+  <text x="602.5" y="226" font-size="12" fill="#9198a1" text-anchor="middle">75 %</text>
+  <line x1="690.0" y1="62" x2="690.0" y2="208" stroke="#3d444d" stroke-width="1"/>
+  <text x="690.0" y="226" font-size="12" fill="#9198a1" text-anchor="middle">100 %</text>
+  <text x="8" y="80" font-size="13" fill="#e6edf3">Et vaig donar ulls i vas mirar les tenebres</text>
+  <text x="8" y="98" font-size="12" fill="#9198a1">Irene Solà · prosa contemporánea · 2023</text>
+  <g><title>Et vaig donar ulls i vas mirar les tenebres: 92,5 % de 51.547 tokens</title>
+  <path d="M340,68 h319.8 a4,4 0 0 1 4,4 v8 a4,4 0 0 1 -4,4 h-319.8 z" fill="#22d3a7"/>
+  </g>
+  <text x="752" y="81" font-size="13" fill="#e6edf3" font-weight="600" text-anchor="end">92,5 %</text>
+  <text x="8" y="130" font-size="13" fill="#e6edf3">L'auca del senyor Esteve</text>
+  <text x="8" y="148" font-size="12" fill="#9198a1">Santiago Rusiñol · clásico · 1907</text>
+  <g><title>L'auca del senyor Esteve: 89,3 % de 53.261 tokens</title>
+  <path d="M340,118 h308.6 a4,4 0 0 1 4,4 v8 a4,4 0 0 1 -4,4 h-308.6 z" fill="#22d3a7"/>
+  </g>
+  <text x="752" y="131" font-size="13" fill="#e6edf3" font-weight="600" text-anchor="end">89,3 %</text>
+  <text x="8" y="180" font-size="13" fill="#e6edf3">Arrels mortes</text>
+  <text x="8" y="198" font-size="12" fill="#9198a1">pre-normativo · 1909</text>
+  <g><title>Arrels mortes: 76,8 % de 14.920 tokens</title>
+  <path d="M340,168 h264.8 a4,4 0 0 1 4,4 v8 a4,4 0 0 1 -4,4 h-264.8 z" fill="#22d3a7"/>
+  </g>
+  <text x="752" y="181" font-size="13" fill="#e6edf3" font-weight="600" text-anchor="end">76,8 %</text>
+</svg>

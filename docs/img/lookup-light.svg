@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" role="img" aria-label="Pantalla esquemática de un Kindle: al pulsar «vaig» aparece la entrada «anar», traducida como ir, andar" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+  <rect x="40" y="12" width="340" height="436" rx="28" fill="none" stroke="#d1d9e0" stroke-width="2"/>
+  <rect x="60" y="36" width="300" height="380" rx="6" fill="none" stroke="#d1d9e0" stroke-width="1"/>
+  <rect x="73" y="123" width="30" height="20" rx="3" fill="#bf8700" fill-opacity="0.18" stroke="#bf8700" stroke-width="1.5"/>
+  <text x="76" y="72" font-size="13" fill="#1f2328">El carrer encara feia olor de pa i de</text>
+  <text x="76" y="94" font-size="13" fill="#1f2328">pluja, i el forn tenia el vidre entelat.</text>
+  <text x="76" y="116" font-size="13" fill="#1f2328">Una mica abans que sonessin les campanes,</text>
+  <text x="76" y="138" font-size="13" fill="#1f2328">vaig creuar la plaça fins al cantó on</text>
+  <text x="76" y="160" font-size="13" fill="#1f2328">m'esperava l'amic de sempre, amb les</text>
+  <text x="76" y="182" font-size="13" fill="#1f2328">mans a les butxaques i un llibre sota</text>
+  <text x="76" y="204" font-size="13" fill="#1f2328">el braç. Feia anys que no ens vèiem.</text>
+  <rect x="68" y="230" width="284" height="162" rx="6" fill="none" stroke="#d1d9e0" stroke-width="1.5"/>
+  <text x="84" y="252" font-size="12" fill="#59636e">Diccionari català → español</text>
+  <line x1="68" y1="264" x2="352" y2="264" stroke="#d1d9e0" stroke-width="1"/>
+  <text x="84" y="294" font-size="16" fill="#1f2328" font-weight="600">anar</text>
+  <text x="126" y="294" font-size="12" fill="#59636e">/aˈna/ · verb</text>
+  <rect x="256" y="277" width="82" height="24" rx="6" fill="none" stroke="#1f8a70" stroke-width="1.5"/>
+  <text x="297" y="293" font-size="12" fill="#1f2328" text-anchor="middle">vaig → anar</text>
+  <text x="84" y="322" font-size="12" fill="#59636e">Moure's d'un lloc a un altre.</text>
+  <text x="84" y="348" font-size="13" fill="#1f2328" font-weight="600">1. ir</text>
+  <text x="84" y="370" font-size="13" fill="#1f2328" font-weight="600">2. andar</text>
+  <text x="420" y="48" font-size="16" fill="#1f2328" font-weight="600">Qué hace el diccionario</text>
+  <line x1="388" y1="133" x2="420" y2="133" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="3 3"/>
+  <circle cx="432" cy="133" r="11" fill="none" stroke="#1f8a70" stroke-width="1.5"/>
+  <text x="432" y="137" font-size="12" fill="#1f2328" font-weight="600" text-anchor="middle">1</text>
+  <text x="452" y="137" font-size="13" fill="#1f2328">Mantienes pulsada «vaig»</text>
+  <text x="452" y="155" font-size="12" fill="#59636e">una forma conjugada, no el infinitivo</text>
+  <line x1="388" y1="289" x2="420" y2="289" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="3 3"/>
+  <circle cx="432" cy="289" r="11" fill="none" stroke="#1f8a70" stroke-width="1.5"/>
+  <text x="432" y="293" font-size="12" fill="#1f2328" font-weight="600" text-anchor="middle">2</text>
+  <text x="452" y="293" font-size="13" fill="#1f2328">El índice de formas la lleva al lema</text>
+  <text x="452" y="311" font-size="12" fill="#59636e">vaig → anar, entre 1,1 millones de formas</text>
+  <line x1="388" y1="359" x2="420" y2="359" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="3 3"/>
+  <circle cx="432" cy="359" r="11" fill="none" stroke="#1f8a70" stroke-width="1.5"/>
+  <text x="432" y="363" font-size="12" fill="#1f2328" font-weight="600" text-anchor="middle">3</text>
+  <text x="452" y="363" font-size="13" fill="#1f2328">Y ves la traducción al español</text>
+  <text x="452" y="381" font-size="12" fill="#59636e">sin salir del libro</text>
+</svg>

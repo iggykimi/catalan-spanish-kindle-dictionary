@@ -1,5 +1,10 @@
+# Diccionario catalán → español para Kindle
+
 <p align="center">
-  <img src="docs/img/banner.svg" alt="Diccionari català → español per a Kindle" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/img/lookup-dark.svg">
+    <img alt="Pantalla esquemática de un Kindle: al mantener pulsada «vaig» en un texto catalán aparece la entrada «anar», traducida como ir, andar" src="docs/img/lookup-light.svg" width="760">
+  </picture>
 </p>
 
 <p align="center">
@@ -68,7 +73,10 @@ Detalles completos en [NOTICE.md](NOTICE.md).
 
 Cobertura medida sobre libros reales, token a token, simulando la búsqueda del Kindle ([metodología](docs/validacion.md)):
 
-![Cobertura sobre obras reales](docs/img/cobertura.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/cobertura-dark.svg">
+  <img alt="Cobertura sobre obras reales: Et vaig donar ulls i vas mirar les tenebres 92,5 %, L'auca del senyor Esteve 89,3 %, Arrels mortes 76,8 %" src="docs/img/cobertura-light.svg">
+</picture>
 
 Los fallos en clásicos corresponden a ortografía anterior a Fabra (`ab`, `y`, `vehina`); en prosa moderna casi todo lo restante son nombres propios.
 
